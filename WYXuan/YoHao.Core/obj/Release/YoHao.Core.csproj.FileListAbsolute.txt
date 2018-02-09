@@ -1,0 +1,8 @@
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\bin\Release\YoHao.Core.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\bin\Release\YoHao.Core.pdb
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\bin\Release\MySql.Data.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\bin\Release\Newtonsoft.Json.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\bin\Release\SyntacticSugar.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\obj\Release\YoHao.Core.csprojResolveAssemblyReference.cache
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\obj\Release\YoHao.Core.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.Core\obj\Release\YoHao.Core.pdb

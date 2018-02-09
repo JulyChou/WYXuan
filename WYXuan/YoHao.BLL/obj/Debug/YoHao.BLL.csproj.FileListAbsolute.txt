@@ -1,0 +1,12 @@
+D:\周将来\我的\我的项目\XYXuan\YoHao.BLL\bin\Debug\YoHao.BLL.dll
+D:\周将来\我的\我的项目\XYXuan\YoHao.BLL\bin\Debug\YoHao.BLL.pdb
+D:\周将来\我的\我的项目\XYXuan\YoHao.BLL\obj\Debug\YoHao.BLL.dll
+D:\周将来\我的\我的项目\XYXuan\YoHao.BLL\obj\Debug\YoHao.BLL.pdb
+D:\周将来\我的\我的项目\WYXuan\YoHao.BLL\bin\Debug\YoHao.BLL.dll
+D:\周将来\我的\我的项目\WYXuan\YoHao.BLL\bin\Debug\YoHao.BLL.pdb
+D:\周将来\我的\我的项目\WYXuan\YoHao.BLL\obj\Debug\YoHao.BLL.dll
+D:\周将来\我的\我的项目\WYXuan\YoHao.BLL\obj\Debug\YoHao.BLL.pdb
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.BLL\bin\Debug\YoHao.BLL.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.BLL\bin\Debug\YoHao.BLL.pdb
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.BLL\obj\Debug\YoHao.BLL.dll
+D:\周将来\我的\我的项目\WYX1\code\WYXuan\YoHao.BLL\obj\Debug\YoHao.BLL.pdb
